@@ -1,5 +1,5 @@
 <div>
-  <img src="/imagens/imagem-readme.png"/>
+  <img src="/img/imagem-readme.png"/>
 </div>
 
 <h1>Website responsivo</h1>
