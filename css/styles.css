@@ -670,7 +670,9 @@ footer .follow img:hover {
         align-items: center;
     }
 
-    footer .title, .about, .services {
+    footer .title,
+    .about,
+    .services {
         border-bottom: 1px solid #fff;
         margin: 10px;
     }
@@ -678,7 +680,7 @@ footer .follow img:hover {
     footer .title {
         width: auto;
     }
-    
+
     footer .about,
     .services,
     .follow {
